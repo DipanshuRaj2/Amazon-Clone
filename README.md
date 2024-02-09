@@ -1,26 +1,7 @@
-<div class="logo">
-  <span class="amazon-text">Amazon</span>
-  <span class="icon">&#128722;</span>
-</div>
-# Amazon Clone
+Domain: HTML5, CSS, CSS-flexbox.
 
-<div class="logo">
-  <span class="amazon-text">Amazon</span>
-  <span class="icon">&#128722;</span>
-</div>
-
-This project is a basic front-end clone of the popular e-commerce platform Amazon...
-.logo {
-  display: flex;
-  align-items: center;
-  font-size: 24px;
-}
-
-.amazon-text {
-  font-weight: bold;
-  color: #000;
-}
-
-.icon {
-  margin-left: 5px;
-}
+1. Developed a fronted part of the Amazon clone website.
+2. The project aimed to replicate the user interface and functionality of the Amazon website,
+3. Providing users with a familiar and intuitive browsing and shopping experience.
+4. Additionally, I utilized version control systems like Git for efficient collaboration and  
+  Project management.
