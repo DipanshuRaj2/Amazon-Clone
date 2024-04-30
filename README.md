@@ -5,5 +5,3 @@ Domain: HTML5, CSS, CSS-flexbox.
 3. Providing users with a familiar and intuitive browsing and shopping experience.
 4. Additionally, I utilized version control systems like Git for efficient collaboration and  
   Project management.
-
-fdnf
